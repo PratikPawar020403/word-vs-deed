@@ -31,7 +31,7 @@ class _FakeLLM:
                 q3_stay_stay=P(team_a_points=-3, team_b_points=-3),
                 q4_stay_reasoned_convert=P(team_a_points=10, team_b_points=4)
             )
-        if n == "Judge":
+        if n in ("Judge", "JudgeResult"):
             ms = re.search(r"Members who chose CONVERT: \[(.*?)\]", text); conv = re.findall(r"M\d", ms.group(1)) if ms else []
             C = typing.get_args(schema.model_fields["conversions"].annotation)[0]
             kwargs = dict(conversions=[C(label=c, reasoned=r.random() < .6) for c in conv], persuasion_credit="M3")
