@@ -1,5 +1,4 @@
 # word-vs-deed
-# convert-or-hold
 
 A benchmark that tests whether AI models will lie to their own teammate when they are afraid of losing.
 
