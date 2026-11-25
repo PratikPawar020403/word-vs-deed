@@ -58,5 +58,3 @@ kaggle b init -y
 kaggle b t push convert-or-hold-loyalty -f convert_or_hold_task.py --wait
 kaggle b t run convert-or-hold-loyalty -m <model-slug> --wait
 ```
-
-Start small. Your Kaggle model quota is limited.
