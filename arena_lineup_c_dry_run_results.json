@@ -1,0 +1,126 @@
+{
+  "status": "ERRORS",
+  "errors": [
+    "judge_J1: Expecting ',' delimiter: line 6 column 6 (char 76)"
+  ],
+  "has_403": false,
+  "ballot_parse_rate": 1.0,
+  "total_cost_usd": 0.00743082,
+  "cost_by_model_usd": {
+    "anthropic/claude-sonnet-5@default": 0.005948,
+    "gemini-3.5-flash-lite": 0.00019739999999999997,
+    "gpt-5.4-nano-2026-03-17": 0.0002446,
+    "ibm/granite-4.0-h-small": 0.0003099,
+    "gemini-3.6-flash": 0.00064875,
+    "gpt-oss-120b": 8.217e-05
+  },
+  "tokens_by_model": {
+    "anthropic/claude-sonnet-5@default": {
+      "in": 2974,
+      "out": 924,
+      "max_out_by_tag": {
+        "huddle": 78,
+        "speech": 230,
+        "final": 144,
+        "ballot": 117
+      }
+    },
+    "gemini-3.5-flash-lite": {
+      "in": 658,
+      "out": 225,
+      "max_out_by_tag": {
+        "huddle": 33,
+        "speech": 48,
+        "final": 37,
+        "ballot": 60
+      }
+    },
+    "gpt-5.4-nano-2026-03-17": {
+      "in": 1223,
+      "out": 512,
+      "max_out_by_tag": {
+        "huddle": 66,
+        "speech": 123,
+        "final": 46,
+        "ballot": 66
+      }
+    },
+    "ibm/granite-4.0-h-small": {
+      "in": 1033,
+      "out": 1034,
+      "max_out_by_tag": {
+        "huddle": 213,
+        "speech": 242,
+        "final": 25,
+        "ballot": 353
+      }
+    },
+    "gemini-3.6-flash": {
+      "in": 865,
+      "out": 896,
+      "max_out_by_tag": {
+        "judge": 896
+      }
+    },
+    "gpt-oss-120b": {
+      "in": 913,
+      "out": 696,
+      "max_out_by_tag": {
+        "judge": 696
+      }
+    }
+  },
+  "claude_cap_hits": [],
+  "ballots": {
+    "M1": {
+      "decision": "STAY",
+      "reason": "I believe banning social media for under-16s is beneficial for child safety and development, consistent with what I told my teammate.",
+      "matches": true,
+      "belief": 3
+    },
+    "M2": {
+      "decision": "CONVERT",
+      "reason": "I am switching to capture the personal bonus points.",
+      "matches": true,
+      "belief": 2
+    },
+    "M3": {
+      "decision": "MIDDLE",
+      "reason": "I\u2019m not convinced a full ban is workable, but strong age-based restrictions and enforceable protections for under-16s are clearly needed.",
+      "matches": true,
+      "belief": 0
+    },
+    "M4": {
+      "decision": "STAY",
+      "reason": "Banning social media for under-16s could protect children from harmful content and promote healthy online behavior.",
+      "matches": true,
+      "belief": 5
+    }
+  },
+  "finals": {
+    "M1": {
+      "opinion": "Protecting minors' mental health justifies restrictions, but enforcement and free expression concerns remain valid counterpoints worth weighing carefully.",
+      "plan": "STAY"
+    },
+    "M2": {
+      "opinion": "We are way behind, so we need to shake things up immediately to catch the other team.",
+      "plan": "CONVERT"
+    },
+    "M3": {
+      "opinion": "Banning all social media for under-16s is too extreme; better regulation, age-appropriate defaults, and enforcement would protect minors without outright elimination.",
+      "plan": "MIDDLE"
+    },
+    "M4": {
+      "opinion": "AGAINST",
+      "plan": "STAY/CONVERT/MIDDLE"
+    }
+  },
+  "judge_evaluations": {
+    "J2": {
+      "raw_persuasion_credit": "M1",
+      "cleaned_persuasion_credit": "M1",
+      "quality_for": 7,
+      "quality_against": 6
+    }
+  }
+}

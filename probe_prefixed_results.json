@@ -1,0 +1,426 @@
+[
+  {
+    "slug": "anthropic/claude-haiku-4-5-20251001@default",
+    "family": "Anthropic",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "anthropic/claude-haiku-4-5-20251001",
+    "family": "Anthropic",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "anthropic/claude-haiku-5-5@default",
+    "family": "Anthropic",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "anthropic/claude-haiku-5-5",
+    "family": "Anthropic",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "anthropic/claude-opus-4-5-20251101@default",
+    "family": "Anthropic",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "anthropic/claude-opus-4-5-20251101",
+    "family": "Anthropic",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "anthropic/claude-opus-4-6@default",
+    "family": "Anthropic",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "anthropic/claude-opus-4-6-default",
+    "family": "Anthropic",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "anthropic/claude-opus-4-7@default",
+    "family": "Anthropic",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "anthropic/claude-opus-4-7-default",
+    "family": "Anthropic",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "anthropic/claude-opus-4-8@default",
+    "family": "Anthropic",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "anthropic/claude-opus-4-8-default",
+    "family": "Anthropic",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "anthropic/claude-opus-5@default",
+    "family": "Anthropic",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "anthropic/claude-opus-5-default",
+    "family": "Anthropic",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "anthropic/claude-opus-5-5@default",
+    "family": "Anthropic",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "anthropic/claude-opus-5-5-default",
+    "family": "Anthropic",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "anthropic/claude-sonnet-4-6@default",
+    "family": "Anthropic",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "anthropic/claude-sonnet-4-6-default",
+    "family": "Anthropic",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "anthropic/claude-sonnet-5@default",
+    "family": "Anthropic",
+    "status": "200",
+    "native_schema": true,
+    "fallback_only": false,
+    "notes": "Native Ballot parse OK"
+  },
+  {
+    "slug": "anthropic/claude-sonnet-5-5@default",
+    "family": "Anthropic",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "anthropic/claude-sonnet-5-5-default",
+    "family": "Anthropic",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "xai/grok-4.5-0708",
+    "family": "xAI",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "xai/grok-4.5-0708@default",
+    "family": "xAI",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "xai/grok-4.6",
+    "family": "xAI",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "xai/grok-4.6@default",
+    "family": "xAI",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "xai/grok-4.7",
+    "family": "xAI",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "xai/grok-4.7@default",
+    "family": "xAI",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "x-ai/grok-4.5-0708",
+    "family": "xAI",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "x-ai/grok-4.6",
+    "family": "xAI",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "x-ai/grok-4.7",
+    "family": "xAI",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "deepseek-ai/deepseek-r1-0528@default",
+    "family": "DeepSeek",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "deepseek-ai/deepseek-r1-0528",
+    "family": "DeepSeek",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "deepseek-ai/deepseek-r1",
+    "family": "DeepSeek",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "deepseek-ai/deepseek-v3",
+    "family": "DeepSeek",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "deepseek/deepseek-r1",
+    "family": "DeepSeek",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "google/gemini-3.8-flash",
+    "family": "Google",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "google/gemini-3.8-flash@default",
+    "family": "Google",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "google/gemini-3.1-pro-preview",
+    "family": "Google",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "google/gemini-3.1-pro-preview@default",
+    "family": "Google",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "google/gemini-4-argon",
+    "family": "Google",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "google/gemini-4-neon",
+    "family": "Google",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "google/gemma-4-26b-a4b-it",
+    "family": "Google",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "google/gemma-4-31b-it",
+    "family": "Google",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "openai/gpt-5.4-mini-2026-03-17",
+    "family": "OpenAI",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "openai/gpt-5.4-mini-2026-03-17@default",
+    "family": "OpenAI",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "openai/gpt-5.4-2026-03-05",
+    "family": "OpenAI",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "openai/gpt-5.4-2026-03-05@default",
+    "family": "OpenAI",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "openai/gpt-5.5-2026-04-23",
+    "family": "OpenAI",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "openai/gpt-5.5-2026-04-23@default",
+    "family": "OpenAI",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "qwen/qwen3-next-80b-a3b-instruct@default",
+    "family": "Qwen",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "qwen/qwen3-next-80b-a3b-instruct",
+    "family": "Qwen",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "mistralai/mistral-large-2411",
+    "family": "Mistral",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  },
+  {
+    "slug": "meta-llama/llama-3.3-70b-instruct",
+    "family": "Meta",
+    "status": "404",
+    "native_schema": false,
+    "fallback_only": false,
+    "notes": "404 Not Found"
+  }
+]

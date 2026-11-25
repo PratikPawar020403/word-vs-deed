@@ -1,0 +1,24 @@
+# Sensitive environment & credentials
+.env
+*.env
+kaggle.json
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+env/
+venv/
+ENV/
+
+# System, patches & archives
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.patch
+*.zip

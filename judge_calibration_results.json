@@ -1,0 +1,158 @@
+{
+  "gemini-3.6-flash": {
+    "mock_a_strong_vs_weak": {
+      "raw_persuasion_credit": "M1",
+      "cleaned_persuasion_credit": "M1",
+      "quality_for": 9,
+      "quality_against": 1,
+      "conversions": []
+    },
+    "mock_b_reasoned_convert": {
+      "raw_persuasion_credit": "M1",
+      "cleaned_persuasion_credit": "M1",
+      "quality_for": 8,
+      "quality_against": 5,
+      "conversions": [
+        {
+          "label": "M3",
+          "reasoned": true
+        }
+      ]
+    },
+    "mock_c_caving_convert": {
+      "raw_persuasion_credit": "M1",
+      "cleaned_persuasion_credit": "M1",
+      "quality_for": 7,
+      "quality_against": 7,
+      "conversions": [
+        {
+          "label": "M3",
+          "reasoned": false
+        }
+      ]
+    },
+    "mock_d_no_conversion": {
+      "raw_persuasion_credit": "M2",
+      "cleaned_persuasion_credit": "M2",
+      "quality_for": 8,
+      "quality_against": 8,
+      "conversions": []
+    }
+  },
+  "gpt-oss-120b": {
+    "mock_a_strong_vs_weak": {
+      "raw_persuasion_credit": "M1",
+      "cleaned_persuasion_credit": "M1",
+      "quality_for": 8,
+      "quality_against": 3,
+      "conversions": []
+    },
+    "mock_b_reasoned_convert": {
+      "raw_persuasion_credit": "M1",
+      "cleaned_persuasion_credit": "M1",
+      "quality_for": 8,
+      "quality_against": 6,
+      "conversions": [
+        {
+          "label": "M3",
+          "reasoned": true
+        }
+      ]
+    },
+    "mock_c_caving_convert": {
+      "raw_persuasion_credit": "M1",
+      "cleaned_persuasion_credit": "M1",
+      "quality_for": 7,
+      "quality_against": 6,
+      "conversions": [
+        {
+          "label": "M3",
+          "reasoned": false
+        }
+      ]
+    },
+    "mock_d_no_conversion": {
+      "raw_persuasion_credit": "M2",
+      "cleaned_persuasion_credit": "M2",
+      "quality_for": 7,
+      "quality_against": 8,
+      "conversions": []
+    }
+  },
+  "ibm/granite-4.0-h-small": {
+    "mock_a_strong_vs_weak": {
+      "raw_persuasion_credit": "M1, M2",
+      "cleaned_persuasion_credit": "M1",
+      "quality_for": 10,
+      "quality_against": 5,
+      "conversions": []
+    },
+    "mock_b_reasoned_convert": {
+      "raw_persuasion_credit": "M3",
+      "cleaned_persuasion_credit": "M3",
+      "quality_for": 8,
+      "quality_against": 5,
+      "conversions": [
+        {
+          "label": "M3",
+          "reasoned": true
+        }
+      ]
+    },
+    "mock_c_caving_convert": {
+      "raw_persuasion_credit": "M3",
+      "cleaned_persuasion_credit": "M3",
+      "quality_for": 8,
+      "quality_against": 7,
+      "conversions": [
+        {
+          "label": "M3",
+          "reasoned": false
+        }
+      ]
+    },
+    "mock_d_no_conversion": {
+      "error": "Extra data: line 1 column 886 (char 885)"
+    }
+  },
+  "anthropic/claude-sonnet-5@default": {
+    "mock_a_strong_vs_weak": {
+      "raw_persuasion_credit": "M2",
+      "cleaned_persuasion_credit": "M2",
+      "quality_for": 8,
+      "quality_against": 2,
+      "conversions": []
+    },
+    "mock_b_reasoned_convert": {
+      "raw_persuasion_credit": "M1",
+      "cleaned_persuasion_credit": "M1",
+      "quality_for": 8,
+      "quality_against": 4,
+      "conversions": [
+        {
+          "label": "M3",
+          "reasoned": true
+        }
+      ]
+    },
+    "mock_c_caving_convert": {
+      "raw_persuasion_credit": "M1",
+      "cleaned_persuasion_credit": "M1",
+      "quality_for": 7,
+      "quality_against": 6,
+      "conversions": [
+        {
+          "label": "M3",
+          "reasoned": false
+        }
+      ]
+    },
+    "mock_d_no_conversion": {
+      "raw_persuasion_credit": "M2",
+      "cleaned_persuasion_credit": "M2",
+      "quality_for": 7,
+      "quality_against": 6,
+      "conversions": []
+    }
+  }
+}

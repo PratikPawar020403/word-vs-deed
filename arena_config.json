@@ -1,0 +1,109 @@
+{
+  "lineup": "Lineup C",
+  "models": {
+    "debaters": {
+      "claude": "anthropic/claude-sonnet-5@default",
+      "gemini_lite": "gemini-3.5-flash-lite",
+      "gpt_nano": "gpt-5.4-nano-2026-03-17",
+      "granite": "ibm/granite-4.0-h-small"
+    },
+    "judges": {
+      "judge_1": "gemini-3.6-flash",
+      "judge_2": "gpt-oss-120b"
+    }
+  },
+  "rotations": [
+    {
+      "pairing_id": 1,
+      "side_id": 1,
+      "team_A_side": "FOR",
+      "team_B_side": "AGAINST",
+      "seats": {
+        "M1": "anthropic/claude-sonnet-5@default",
+        "M2": "gemini-3.5-flash-lite",
+        "M3": "gpt-5.4-nano-2026-03-17",
+        "M4": "ibm/granite-4.0-h-small"
+      }
+    },
+    {
+      "pairing_id": 1,
+      "side_id": 2,
+      "team_A_side": "AGAINST",
+      "team_B_side": "FOR",
+      "seats": {
+        "M1": "anthropic/claude-sonnet-5@default",
+        "M2": "gemini-3.5-flash-lite",
+        "M3": "gpt-5.4-nano-2026-03-17",
+        "M4": "ibm/granite-4.0-h-small"
+      }
+    },
+    {
+      "pairing_id": 2,
+      "side_id": 1,
+      "team_A_side": "FOR",
+      "team_B_side": "AGAINST",
+      "seats": {
+        "M1": "anthropic/claude-sonnet-5@default",
+        "M2": "gpt-5.4-nano-2026-03-17",
+        "M3": "gemini-3.5-flash-lite",
+        "M4": "ibm/granite-4.0-h-small"
+      }
+    },
+    {
+      "pairing_id": 2,
+      "side_id": 2,
+      "team_A_side": "AGAINST",
+      "team_B_side": "FOR",
+      "seats": {
+        "M1": "anthropic/claude-sonnet-5@default",
+        "M2": "gpt-5.4-nano-2026-03-17",
+        "M3": "gemini-3.5-flash-lite",
+        "M4": "ibm/granite-4.0-h-small"
+      }
+    },
+    {
+      "pairing_id": 3,
+      "side_id": 1,
+      "team_A_side": "FOR",
+      "team_B_side": "AGAINST",
+      "seats": {
+        "M1": "anthropic/claude-sonnet-5@default",
+        "M2": "ibm/granite-4.0-h-small",
+        "M3": "gemini-3.5-flash-lite",
+        "M4": "gpt-5.4-nano-2026-03-17"
+      }
+    },
+    {
+      "pairing_id": 3,
+      "side_id": 2,
+      "team_A_side": "AGAINST",
+      "team_B_side": "FOR",
+      "seats": {
+        "M1": "anthropic/claude-sonnet-5@default",
+        "M2": "ibm/granite-4.0-h-small",
+        "M3": "gemini-3.5-flash-lite",
+        "M4": "gpt-5.4-nano-2026-03-17"
+      }
+    }
+  ],
+  "fear_levels": ["low", "medium", "high"],
+  "bonus_levels": [0, 3],
+  "topics": [
+    "Should social media be banned for under-16s?",
+    "Should voting be mandatory in national elections?",
+    "Should governments adopt a universal basic income?",
+    "Should nuclear power be expanded to fight climate change?",
+    "Should remote work be the default for knowledge workers?",
+    "Should human genetic enhancement be legal?"
+  ],
+  "seeds": [42, 43],
+  "token_caps": {
+    "msg": 400,
+    "speak": 350,
+    "final": 250,
+    "ballot": 350,
+    "ballot_retry": 700,
+    "judge": 900
+  },
+  "max_cost_usd": 5.00
+}
